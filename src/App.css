@@ -23,7 +23,13 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
-
+body{
+  background-image: url("E:\react app file\weather-app\src\tree-832079_960_720.webp");
+  background-repeat: no-repeat;
+  height: 100%;
+  background-size: cover;
+  width: auto;
+}
 .App-link {
   color: #61dafb;
 }
@@ -35,4 +41,48 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.container{
+  text-align: center;
+  margin-top: 250px;
+  background: transparent;
+  /* opacity: 0; */
+}
+.serach{
+  background:transparent;
+  text-transform: capitalize;
+  padding: 15px 25px;
+  border-radius: 5px;
+  font-size: 15px;
+  font-weight: bold;
+  font-family: 'Courier New', Courier, monospace;
+  /* color: antiquewhite; */
+
+}
+.country{
+  border: 1px solid black;
+  height: 310px;
+  width: 200px;
+  border-radius: 5px;
+  /* justify-content: center; */
+  margin:auto;
+  margin-top: 20px;
+}
+.syscountry{
+  color: whitesmoke;
+  background-color: yellowgreen;
+  border-radius: 50%;
+  font-size: medium;
+}
+.namecountry{
+  color: black;
+}
+.weathdesc{
+  font-size: 25px;
+  text-transform: capitalize;
+}
+.country-tem{
+  font-size: 25px;
+  font-weight: bold;
 }
