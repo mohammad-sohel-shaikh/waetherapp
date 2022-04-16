@@ -45,12 +45,13 @@ body{
 
 .container{
   text-align: center;
-  margin-top: 250px;
-  background: transparent;
+  margin-top: 230px;
+  
+  /* background-color: white; */
   /* opacity: 0; */
 }
 .serach{
-  background:transparent;
+  /* background:transparent; */
   text-transform: capitalize;
   padding: 15px 25px;
   border-radius: 5px;
@@ -68,6 +69,7 @@ body{
   /* justify-content: center; */
   margin:auto;
   margin-top: 20px;
+  background-color: white;
 }
 .syscountry{
   color: whitesmoke;
