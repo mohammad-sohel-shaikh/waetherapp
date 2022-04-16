@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/waetherapp/static/css/main.e7ccd307.css",
+    "main.css": "/waetherapp/static/css/main.da1fc365.css",
     "main.js": "/waetherapp/static/js/main.22c3827a.js",
     "static/js/787.d9312eb8.chunk.js": "/waetherapp/static/js/787.d9312eb8.chunk.js",
     "static/media/tree-832079_960_720.webp": "/waetherapp/static/media/tree-832079_960_720.95750a55fd9619cd8683.webp",
     "index.html": "/waetherapp/index.html",
-    "main.e7ccd307.css.map": "/waetherapp/static/css/main.e7ccd307.css.map",
+    "main.da1fc365.css.map": "/waetherapp/static/css/main.da1fc365.css.map",
     "main.22c3827a.js.map": "/waetherapp/static/js/main.22c3827a.js.map",
     "787.d9312eb8.chunk.js.map": "/waetherapp/static/js/787.d9312eb8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7ccd307.css",
+    "static/css/main.da1fc365.css",
     "static/js/main.22c3827a.js"
   ]
 }
